@@ -2,7 +2,6 @@ Belajar java
 -untuk game software
   bekerja di bidang game
 -banyak peminat
-  bahasa yang populer
--loker lumayan banyak
-  banyak perusahaan yang membutuhkan
--mudah dipelajari
+-loker sedikit
+  tidak banyak yang membutuhkan
+ -susah dipelajari
